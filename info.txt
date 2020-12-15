@@ -1,0 +1,3 @@
+used technicals : React, React-bootstrap
+Time : 1 hour
+

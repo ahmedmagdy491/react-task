@@ -1,0 +1,20 @@
+* {
+	font-family: fs-albert-arabic FS Albert Arabic;
+}
+body {
+	background: #191919;
+}
+
+.bar {
+	width: 100%;
+}
+.head {
+	width: 100%;
+}
+.shaksiat{
+	width: 110%;
+	z-index: 1;
+}
+.shaksiat img {
+	width: 270px;
+}
